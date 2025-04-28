@@ -5,7 +5,7 @@ The summary is concise (within 250 words) and provides the most important points
 
 ## Features
 - Fetches transcript from a YouTube video.
-- Uses **Google Gemini Pro** to generate a detailed, point-wise summary.
+- Uses **Google Gemini** to generate a detailed, point-wise summary.
 - Displays the video thumbnail for better user experience.
 - Simple, clean, and easy-to-use interface built with **Streamlit**.
 
