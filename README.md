@@ -13,6 +13,6 @@ The summary is concise (within 250 words) and provides the most important points
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/George-Janier/Youtube-Video-Summarizer
    cd your-repo-name
 
